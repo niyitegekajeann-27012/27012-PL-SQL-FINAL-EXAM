@@ -129,8 +129,8 @@ ALTER USER Thur_26937_Pacifique_Daily_habit_alarmS_db ACCOUNT UNLOCK;
 
 ## 🔧 SQL Developer Configuration:
 
-* Username: Thur\_26937\_Pacifique\_Daily\_habit\_alarmS\_db
-* Password: Pacifique
+* Username: WEDN\_27012\_JEAN\_Daily\_habit\_alarmS\_db
+* Password: JEAN27012
 * Host: localhost
 * Port: 1521
 * Service Name: orcll
