@@ -7,7 +7,7 @@
  **ID**:        27012
  <br>
  **FACULTY**:   Software Engineering
-https://github.com/niyitegekajeann-27012/27012-PL-SQL-FINAL-EXAM/blob/main/Screenshot%20(10).png
+
  
 ---
 <br>
