@@ -6,7 +6,7 @@
  <br>
  **ID**:        27012
  <br>
- **CONCENTRATION**:   Software Engineering
+ **FACULTY**:   Software Engineering
 
 ---
 <br>
