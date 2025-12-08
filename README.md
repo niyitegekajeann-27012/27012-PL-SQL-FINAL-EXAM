@@ -7,7 +7,6 @@
  **ID**:        27012
  <br>
  **FACULTY**:   Software Engineering
-Screenshot (10).png
  
 ---
 <br>
