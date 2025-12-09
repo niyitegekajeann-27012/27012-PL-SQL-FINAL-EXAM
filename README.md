@@ -114,17 +114,17 @@ To solve the above problems, we propose a **Daily Habit and Goal Alarm System** 
 ## 🛠️ Creation of Project Schema:
 
 ```sql
-  CREATE PLUGGABLE DATABASE Thur_26937_Pacifique_Daily_habit_alarmS_db
+  CREATE PLUGGABLE DATABASE Thur_27012_JEAN27012_Daily_habit_alarmS_db
   USING 'C:\ORACLE19CC\ORADATA\ORCLL\orcll.xml'
   COPY
   FILE_NAME_CONVERT = (
     'C:\ORACLE19CC\ORADATA\ORCLL\',
-    'C:\ORACLE19CC\ORADATA\Thur_26937_Pacifique_Daily_habit_alarmS_db'
+    'C:\ORACLE19CC\ORADATA\Thur_27012_JEAN_Daily_habit_alarmS_db'
   );
 
-GRANT CONNECT, RESOURCE, DBA TO Thur_26937_Pacifique_Daily_habit_alarmS_db;
+GRANT CONNECT, RESOURCE, DBA TO WED_27012_JEAN27012_Daily_habit_alarmS_db;
 
-ALTER USER Thur_26937_Pacifique_Daily_habit_alarmS_db ACCOUNT UNLOCK;
+ALTER USER WEDN_27012_JEAN27012_Daily_habit_alarmS_db ACCOUNT UNLOCK;
 ```
 
 ## 🔧 SQL Developer Configuration:
