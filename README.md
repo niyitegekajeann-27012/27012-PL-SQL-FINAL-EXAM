@@ -138,7 +138,8 @@ ALTER USER Thur_26937_Pacifique_Daily_habit_alarmS_db ACCOUNT UNLOCK;
 
 
 
-![WhatsApp Image 2025-11-08 at 17 58 03_d3717e92 22](https://github.com/user-attachments/assets/2b3b6a46-ef71-4bfb-ac72-4175f2cec3f8)
+![pluggable creation](https://github.com/user-attachments/assets/43943c96-77b8-4206-94c6-b3b0f583d6e7)
+
 
 
 
